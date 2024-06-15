@@ -1,5 +1,10 @@
 """
     YouTube to M4A Script
+
+    https://github.com/810Teams/youtube-to-m4a
+
+    Author: 810Teams
+    Version: 1.0.0
 """
 
 import os
